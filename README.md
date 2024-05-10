@@ -2,20 +2,15 @@
 <img src="https://i.imgur.com/6fYfF9b.png"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
-
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
+<h1>Network File Shares & Permissions</h1>
+This tutorial outlines the file shares and permissions on a network within Azure Virtual Machines.<br />
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Active Directory Domain Services
-- PowerShell
+  
 
 <h2>Operating Systems Used </h2>
 
