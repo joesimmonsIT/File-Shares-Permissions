@@ -19,10 +19,11 @@ This tutorial outlines the file shares and permissions on a network within Azure
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- File Shares with Various Permissions
+- File Shares Access
+- Creating A Security Group
+- Security Group Expection
+  
 
 <h2>Deployment and Configuration Steps</h2>
 
