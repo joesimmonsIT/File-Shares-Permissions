@@ -21,7 +21,7 @@ This tutorial outlines the file shares and permissions on a network within Azure
 
 - File Shares with Various Permissions
 - File Shares Access
-- Creating A Security Group
+- Creating An "Accountants" Security Group
 - Security Group Expection
   
 
@@ -212,6 +212,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
+<h2> Creating An "Accountants" Security Group </h2>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
