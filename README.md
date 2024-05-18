@@ -194,13 +194,13 @@ Select "Close". <br /> <br />
 <img src="https://i.imgur.com/c1BEI9r.png"/>
 </p>
 <p>
-Go to "Remote Desktop Connection".
-Select "Connect".
-Select "More choices".
-Select "Use a different account".
-Enter Employee Username.
-Enter Employee Password.
-Select "Ok".
+Go to "Remote Desktop Connection". <br /> <br />
+Select "Connect". <br /> <br />
+Select "More choices". <br /> <br />
+Select "Use a different account". <br /> <br />
+Enter Employee Username. <br /> <br />
+Enter Employee Password. <br /> <br />
+Select "Ok". <br /> <br />
 </p>
 <br />
 
