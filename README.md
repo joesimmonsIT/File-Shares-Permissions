@@ -393,7 +393,8 @@ Select "Close". <br /> <br />
 <img src="https://i.imgur.com/N6w9f8b.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to "Command Prompt". <br /> <br />
+Type "logoff" and Press Enter. <br /> <br />
 </p>
 <br />
 
@@ -401,7 +402,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/TWLKZPt.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Login to "Client-1" with the same employee credentials. <br /> <br />
+Go to "Windows Pane". <br /> <br />
+Type "Run" in search bar and Press Enter. <br /> <br />
+Type "\\dc-1" and Select "Ok". <br /> <br />
 </p>
 <br />
 
