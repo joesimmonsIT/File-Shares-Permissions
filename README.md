@@ -60,7 +60,11 @@ Select "Windows (C:)". <br /> <br />
 <img src="https://i.imgur.com/1dKLOjW.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create 4 folders and name them the following: <br /> <br />
+(1) read-access <br /> <br />
+(2) write-access <br /> <br />
+(3) no-access <br /> <br />
+(4) accounting <br /> <br />
 </p>
 <br />
 
@@ -68,7 +72,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/22KVsIS.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Select "read-access" folder. <br /> <br />
+Right Click and Select "Properties". <br /> <br />
+Select "Sharing". <br /> <br />
+Select "Share". <br /> <br />
 </p>
 <br />
 
@@ -76,7 +83,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/8B1Wn6G.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Type "Domain Users" and Select "Add".
 </p>
 <br />
 
