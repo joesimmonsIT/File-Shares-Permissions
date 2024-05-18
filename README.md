@@ -244,7 +244,12 @@ Only "Domain Admins" can access this folder hence access has been denied. <br />
 <img src="https://i.imgur.com/yCHIgrp.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to "Active Directory". <br /> <br />
+Select "mydomain.com". <br /> <br />
+Right Click and Select "New". <br /> <br />
+Select "Organizational Unit". <br /> <br />
+Name "_Security Groups". <br /> <br />
+Select "Ok". <br /> <br />
 </p>
 <br />
 
