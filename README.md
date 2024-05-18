@@ -108,7 +108,8 @@ Select "Done".
 <img src="https://i.imgur.com/1St0fEM.png"/>
 </p>
 <p>
-Select "Apply".
+Select "Apply". <br /> <br />
+Select "Close". <br /> <br />
 </p>
 <br />
 
