@@ -274,7 +274,9 @@ Right Click and Select "Refresh". <br /> <br />
 <img src="https://i.imgur.com/mNb8I6r.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Select "_Security Groups". <br /> <br />
+Right Click and Select "New". <br /> <br />
+Select "Group". <br /> <br />
 </p>
 <br />
 
@@ -282,7 +284,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/cRFfIJT.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Group Name: Accountants. <br /> <br />
+Group Type: Security. <br /> <br />
+Select "Ok". <br /> <br />
 </p>
 <br />
 
@@ -290,7 +294,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/x7SlIGs.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to "File Explorer". <br /> <br />
+Select "This PC". <br /> <br />
+Select "Windows (C:)". <br /> <br />
+Select "accounting folder". <br /> <br />
+Right Click and Select "Properties". <br /> <br />
+Select "Sharing". <br /> <br />
+Select "Share". <br /> <br />
 </p>
 <br />
 
