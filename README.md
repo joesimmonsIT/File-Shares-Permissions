@@ -381,7 +381,7 @@ Select "Ok".
 <img src="https://i.imgur.com/j1ICnj6.png"/>
 </p>
 <p>
-Go to "Flie Explorer". <br /> <br />
+Go to "File Explorer". <br /> <br />
 Type "\\dc-1" in the search bar and Press Enter. <br /> <br />
 Select "accounting" folder. <br /> <br />
 "No access" error message appears because newly granted access will take place during next login. <br /> <br />
