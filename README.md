@@ -226,7 +226,7 @@ Select "read-access" folder.
 </p>
 <p>
 Select "write-access" folder. <br /> <br />
-Right CLick and Select "New Folder". <br /> <br />
+Right Click and Select "New Folder". <br /> <br />
 </p>
 <br />
 
