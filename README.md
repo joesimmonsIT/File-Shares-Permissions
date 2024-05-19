@@ -61,10 +61,10 @@ Select "Windows (C:)". <br /> <br />
 </p>
 <p>
 Create 4 folders and name them the following: <br /> <br />
-(1) read-access <br /> <br />
-(2) write-access <br /> <br />
-(3) no-access <br /> <br />
-(4) accounting <br /> <br />
+(1) "read-access" <br /> <br />
+(2) "write-access" <br /> <br />
+(3) "no-access" <br /> <br />
+(4) "accounting" <br /> <br />
 </p>
 <br />
 
@@ -209,7 +209,7 @@ Select "Ok". <br /> <br />
 </p>
 <p>
 Go to "File Explorer". <br /> <br />
-Type "\\dc-1" in the search bar and Press Enter. <br /> <br />
+Type "\\dc-1" in the search bar and Press "Enter". <br /> <br />
 </p>
 <br />
 
@@ -382,7 +382,7 @@ Select "Ok".
 </p>
 <p>
 Go to "File Explorer". <br /> <br />
-Type "\\dc-1" in the search bar and Press Enter. <br /> <br />
+Type "\\dc-1" in the search bar and Press "Enter". <br /> <br />
 Select "accounting" folder. <br /> <br />
 "No access" error message appears because newly granted access will take place during next login. <br /> <br />
 Select "Close". <br /> <br />
@@ -394,7 +394,7 @@ Select "Close". <br /> <br />
 </p>
 <p>
 Go to "Command Prompt". <br /> <br />
-Type "logoff" and Press Enter. <br /> <br />
+Type "logoff" and Press "Enter". <br /> <br />
 </p>
 <br />
 
@@ -404,7 +404,7 @@ Type "logoff" and Press Enter. <br /> <br />
 <p>
 Login to "Client-1" with the same employee credentials. <br /> <br />
 Go to "Windows Pane". <br /> <br />
-Type "Run" in search bar and Press Enter. <br /> <br />
+Type "Run" in search bar and Press "Enter". <br /> <br />
 Type "\\dc-1" and Select "Ok". <br /> <br />
 </p>
 <br />
